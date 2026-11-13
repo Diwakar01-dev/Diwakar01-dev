@@ -1,117 +1,61 @@
 
 <div align="center">
 
-# Diwakar Kumar
+# Hi, I'm Diwakar Kumar 👋
 
-### Full Stack Developer | MERN Stack Developer
+### Full Stack Web Developer | MERN Stack Developer
 
-Building modern web applications with clean code, scalable architecture and intuitive user experiences.
+Building modern, scalable and responsive web applications.
 
-<br/>
-
-<a href="https://github.com/Diwakar01-dev">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://codeintips.com/">
-  <img src="https://img.shields.io/badge/Website-CodeInTips-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Diwakar01-dev&style=flat-square&color=2563EB&label=PROFILE+VIEWS" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge)](https://github.com/Diwakar01-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/Diwakar01-dev)
 
 </div>
 
 ---
 
-## About Me
+##  About Me
 
-I'm a Full Stack Web Developer from India passionate about building functional, responsive and user-focused web applications.
+- Full Stack Web Developer from India.
+- Working with React.js, Node.js, Express.js and MongoDB.
+- Experienced in building responsive websites and web applications.
+- Interested in backend development, APIs and scalable architectures.
+- Continuously learning and improving my development skills.
+- Open to collaboration, internships and development opportunities.
 
-- Developing full-stack applications using the MERN stack.
-- Building REST APIs and backend functionality.
-- Creating responsive interfaces with React and Tailwind CSS.
-- Working with MongoDB, Node.js and Express.js.
-- Exploring modern development tools and deployment workflows.
-- Open to collaboration and junior developer opportunities.
+##  Tech Stack & Tools
 
----
-
-## Technical Skills
-
-**Frontend Development**
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,php,wordpress,git,github,vscode,postman" />
 </p>
 
-**Backend Development**
+##  Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php" />
-</p>
+| Project | Description |
+|---|---|
+| [Login System](https://github.com/Diwakar01-dev/login-system) | Authentication system using JavaScript and backend technologies. |
+| [Netflix Clone](https://github.com/Diwakar01-dev/netflix-clone) | Responsive Netflix-inspired frontend. |
+| [Website Prompt Generator](https://github.com/Diwakar01-dev/Website-prompt-generator) | Web application for generating website prompts. |
+| [Neon Particle Animation](https://github.com/Diwakar01-dev/neon-particle-animation) | Interactive JavaScript animation. |
 
-**Tools & Platforms**
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,wordpress" />
-</p>
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-<h3>Netflix Clone</h3>
-<p>Responsive Netflix-inspired website built with HTML and CSS.</p>
-<a href="https://github.com/Diwakar01-dev/netflix-clone">View Repository →</a>
-</td>
-<td width="50%">
-<h3>Website Prompt Generator</h3>
-<p>A web application for generating detailed website development prompts.</p>
-<a href="https://github.com/Diwakar01-dev/Website-prompt-generator">View Repository →</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3>Login System</h3>
-<p>Authentication project using JavaScript and backend technologies.</p>
-<a href="https://github.com/Diwakar01-dev/login-system">View Repository →</a>
-</td>
-<td width="50%">
-<h3>Neon Particle Animation</h3>
-<p>Interactive particle animation developed using JavaScript.</p>
-<a href="https://github.com/Diwakar01-dev/neon-particle-animation">View Repository →</a>
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Analytics
+##  GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Diwakar01-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=Diwakar01-dev&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diwakar01-dev&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diwakar01-dev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Diwakar01-dev&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Diwakar01-dev&theme=tokyonight&hide_border=true" />
 
 </div>
 
----
-
-## Contribution Activity
+##  Contribution Activity
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Diwakar01-dev&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Diwakar01-dev&theme=tokyo-night&hide_border=true" width="100%" />
 
 </div>
 
@@ -119,8 +63,8 @@ I'm a Full Stack Web Developer from India passionate about building functional, 
 
 <div align="center">
 
-### Let's Build Something Amazing Together.
+### Let's Connect and Build Something Great!
 
-*Always learning. Always building. Always improving.*
+**Thanks for visiting my profile!**
 
 </div>
