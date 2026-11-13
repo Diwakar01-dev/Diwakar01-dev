@@ -26,18 +26,56 @@ Building modern, scalable and responsive web applications.
 
 ##  Tech Stack & Tools
 
+###  Frontend Development
+
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,php,wordpress,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,php" />
+</p>
+
+### 🛠️ Development Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,wordpress" />
 </p>
 
 ##  Featured Projects
 
-| Project | Description |
-|---|---|
-| [Login System](https://github.com/Diwakar01-dev/login-system) | Authentication system using JavaScript and backend technologies. |
-| [Netflix Clone](https://github.com/Diwakar01-dev/netflix-clone) | Responsive Netflix-inspired frontend. |
-| [Website Prompt Generator](https://github.com/Diwakar01-dev/Website-prompt-generator) | Web application for generating website prompts. |
-| [Neon Particle Animation](https://github.com/Diwakar01-dev/neon-particle-animation) | Interactive JavaScript animation. |
+<table>
+<tr>
+<td width="50%">
+<h3>01. Login System</h3>
+<p>Authentication system featuring user login and backend integration.</p>
+<p><strong>Tech:</strong> JavaScript · Express.js · MongoDB</p>
+<a href="https://github.com/Diwakar01-dev/login-system">View Project →</a>
+</td>
+<td width="50%">
+<h3>02. Netflix Clone</h3>
+<p>Responsive Netflix-inspired frontend with modern UI design.</p>
+<p><strong>Tech:</strong> HTML · CSS · JavaScript</p>
+<a href="https://github.com/Diwakar01-dev/netflix-clone">View Project →</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>03. Website Prompt Generator</h3>
+<p>A web application designed to generate website development prompts.</p>
+<p><strong>Tech:</strong> JavaScript · Web Development</p>
+<a href="https://github.com/Diwakar01-dev/Website-prompt-generator">View Project →</a>
+</td>
+<td width="50%">
+<h3>04. Neon Particle Animation</h3>
+<p>Interactive JavaScript animation with dynamic particle effects.</p>
+<p><strong>Tech:</strong> HTML · CSS · JavaScript · Canvas</p>
+<a href="https://github.com/Diwakar01-dev/neon-particle-animation">View Project →</a>
+</td>
+</tr>
+</table>
 
 ##  GitHub Statistics
 
